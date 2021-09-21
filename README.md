@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @FlynnByReference
+- 👀 I’m interested in Cybersecurity and music
+- 🌱 I’m currently learning Java and Python and good practices and projects for both
